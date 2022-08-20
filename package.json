@@ -1,0 +1,19 @@
+{
+  "name": "inventory_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev:start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "okon_scripts": "echo 'my name is okon'"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
